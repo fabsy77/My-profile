@@ -69,7 +69,7 @@ Como dica adicional para deixar o site mais bonito e moderno, foram adicionados:
 
 Este projeto foi publicado gratuitamente usando **GitHub Pages**.
 
-🔗 Acesse aqui: [https://seu-usuario.github.io/nome-do-repositorio](https://github.com/seu-usuario/seu-repositorio)
+🔗 Acesse aqui: https://fabsy77.github.io/My-profile/
 
 > (Altere o link acima com o endereço real do seu repositório após publicar!)
 
