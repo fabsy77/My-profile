@@ -71,8 +71,6 @@ Este projeto foi publicado gratuitamente usando **GitHub Pages**.
 
 🔗 Acesse aqui: https://fabsy77.github.io/My-profile/
 
-> (Altere o link acima com o endereço real do seu repositório após publicar!)
-
 ---
 
 ## ✅ Status
